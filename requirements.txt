@@ -1,0 +1,13 @@
+# Core notebook/runtime dependencies
+jupyter
+ipykernel
+
+# ML / LLM fine-tuning stack
+torch
+datasets
+accelerate
+transformers==4.56.2
+trl==0.22.2
+peft
+bitsandbytes
+unsloth
